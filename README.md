@@ -1,7 +1,7 @@
 # emuparadise
 commandline client for downloading games from emuparadise
 
-`
+```
 usage: emu_browse.py [-h] [--base-url BASE_URL]
                      [--help-filter {safety,system,region,letter,genre}]
                      [--title TITLE] [--safety SAFETY] [--system SYSTEM]
@@ -47,4 +47,4 @@ advanced options:
                         This file is used to store the available filter
                         options
   --purge               Purge cache file on startup
-`
+```
