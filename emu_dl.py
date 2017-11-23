@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # emu_dl.py - download files from emuparadise.me
 # Copyright (C) 2017 Benjamin Abendroth
